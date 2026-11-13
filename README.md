@@ -262,6 +262,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [skill-auto-installer](./plugins/skill-auto-installer)
 - [tldr](./plugins/tldr)
 - [Imagine](https://github.com/freestyler-arb/imagine-gemini-for-claude-codex) - Brings Google Gemini into Claude Code & Codex: delegate reasoning, independent code review, deep research, and automatic prompt-engineering. Runs on your Google AI Pro subscription, not your agent's tokens.
+- [Gamification Engine](https://github.com/kasperjunky/Gamification-Skill) - Database-agnostic, event-driven gamification engine (points, XP, levels, badges, daily streaks, progress trackers) packaged as a skill. Idempotent award ledger, server-trusted time, per-rule rate limits; adapters for Firestore, any optimistic-concurrency store (Postgres, MySQL, MongoDB, DynamoDB, Prisma, Supabase, Redis), and in-memory. 57 behavior checks, MIT.
 
 ### Documentation
 - [analyze-codebase](./plugins/analyze-codebase)
@@ -345,6 +346,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [agent-decision-record](./plugins/agent-decision-record)
 - [product-org-os](./plugins/product-org-os)
 - [governor](https://github.com/0xhimanshu/governor)
+- [Backlog Board](https://github.com/kasperjunky/Backlog-Board) - Private, per-project Kanban backlog for Claude Code: defer a task in plain language and Claude files it with a priority, value, and effort; "show backlog" opens a drag-and-drop board, and "Work on this" hands a card back to Claude. Optional shared team boards.
 
 ### Lifestyle & Entertainment
 - [ai-divination-skills](./plugins/ai-divination-skills)
